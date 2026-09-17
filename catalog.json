@@ -7,14 +7,29 @@
     "avatar": "https://maxlozovsky.github.io/panda-extensions/assets/author.png",
     "links": [
       {
+        "label": "Email",
+        "url": "mailto:dev@maxlozovsky.ru",
+        "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/email.svg"
+      },
+      {
+        "label": "Website",
+        "url": "https://maxlozovsky.ru",
+        "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/website.svg"
+      },
+      {
         "label": "GitHub",
         "url": "https://github.com/maxlozovsky",
         "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/github.svg"
       },
       {
-        "label": "Website",
-        "url": "https://maxlozovsky.ru/",
-        "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/website.svg"
+        "label": "Boosty",
+        "url": "https://boosty.to/maxlozovsky",
+        "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/boosty.svg"
+      },
+      {
+        "label": "Ko-fi",
+        "url": "https://ko-fi.com/maxlozovsky",
+        "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/kofi.svg"
       }
     ],
     "i18n": {
@@ -43,15 +58,15 @@
       "links": [],
       "i18n": {
         "en": {
-          "name": "Panda Speed Dial – New Tab",
+          "name": "Panda Speed Dial",
           "description": "Replace the default new tab with a speed dial featuring link groups, search, and flexible appearance settings."
         },
         "ru": {
-          "name": "Panda Speed Dial – New Tab",
+          "name": "Panda Speed Dial",
           "description": "Замена стандартной новой вкладки на speed dial с группами ссылок, поиском и гибкой настройкой оформления."
         },
         "zh_CN": {
-          "name": "Panda Speed Dial – 新标签页",
+          "name": "Panda Speed Dial",
           "description": "将默认新标签页替换为快速拨号页面，支持链接分组、搜索和灵活的外观设置。"
         }
       }
@@ -89,15 +104,15 @@
       "links": [],
       "i18n": {
         "en": {
-          "name": "Panda Screenshoter – Full Page Screenshot",
+          "name": "Panda Screenshoter",
           "description": "Capture a full-page screenshot in one click with automatic scrolling and save it as PNG, JPEG, or WebP."
         },
         "ru": {
-          "name": "Panda Screenshoter – Скриншот всей страницы",
+          "name": "Panda Screenshoter",
           "description": "Скриншот всей страницы в один клик – с автопрокруткой и сохранением в PNG, JPEG или WebP."
         },
         "zh_CN": {
-          "name": "Panda Screenshoter – 整页截图",
+          "name": "Panda Screenshoter",
           "description": "一键截取整个页面，支持自动滚动并保存为 PNG、JPEG 或 WebP。"
         }
       }
@@ -118,15 +133,15 @@
       ],
       "i18n": {
         "en": {
-          "name": "KPDB — Movie Ratings",
+          "name": "KPDB",
           "description": "Movie and TV ratings from Kinopoisk, IMDb, and Rotten Tomatoes on Netflix, Okko, Ivi, and 40+ other sites."
         },
         "ru": {
-          "name": "KPDB — рейтинги фильмов",
+          "name": "KPDB",
           "description": "Рейтинги фильмов и сериалов от Кинопоиска, IMDb, Rotten Tomatoes на Netflix, Okko, Иви и ещё 40+ сайтах."
         },
         "zh_CN": {
-          "name": "KPDB — 电影评分",
+          "name": "KPDB",
           "description": "在 Netflix、Okko、Ivi 以及其他 40 多个网站上查看来自 Kinopoisk、IMDb 和烂番茄的电影与电视剧评分。"
         }
       }
