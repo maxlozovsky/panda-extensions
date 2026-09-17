@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-17T16:51:59Z",
+  "defaultLocale": "en",
+  "author": {
+    "id": "maxlozovsky",
+    "avatar": "https://maxlozovsky.github.io/panda-extensions/assets/author.png",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/maxlozovsky",
+        "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/github.svg"
+      },
+      {
+        "label": "Website",
+        "url": "https://maxlozovsky.ru/",
+        "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/website.svg"
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Max Lozovsky",
+        "description": "Browser extension author."
+      },
+      "ru": {
+        "name": "Макс Лозовский",
+        "description": "Автор браузерных расширений."
+      },
+      "zh_CN": {
+        "name": "Max Lozovsky",
+        "description": "浏览器扩展程序作者。"
+      }
+    }
+  },
+  "extensions": [
+    {
+      "slug": "panda-speed-dial",
+      "chromeWebStoreId": "nncmpcdlmkbimfjocjhcnkmjabejaaln",
+      "icon": "https://maxlozovsky.github.io/panda-extensions/assets/panda-speed-dial.png",
+      "storeUrl": "https://chromewebstore.google.com/detail/panda-speed-dial-%E2%80%93-new-ta/nncmpcdlmkbimfjocjhcnkmjabejaaln",
+      "enabled": true,
+      "priority": 10,
+      "links": [],
+      "i18n": {
+        "en": {
+          "name": "Panda Speed Dial – New Tab",
+          "description": "Replace the default new tab with a speed dial featuring link groups, search, and flexible appearance settings."
+        },
+        "ru": {
+          "name": "Panda Speed Dial – New Tab",
+          "description": "Замена стандартной новой вкладки на speed dial с группами ссылок, поиском и гибкой настройкой оформления."
+        },
+        "zh_CN": {
+          "name": "Panda Speed Dial – 新标签页",
+          "description": "将默认新标签页替换为快速拨号页面，支持链接分组、搜索和灵活的外观设置。"
+        }
+      }
+    },
+    {
+      "slug": "panda-link-id-copier",
+      "chromeWebStoreId": null,
+      "icon": "https://maxlozovsky.github.io/panda-extensions/assets/panda-link-id-copier.png",
+      "storeUrl": null,
+      "enabled": false,
+      "priority": 20,
+      "links": [],
+      "i18n": {
+        "en": {
+          "name": "Panda Link ID Copier",
+          "description": "Copy IDs and collect links."
+        },
+        "ru": {
+          "name": "Panda Link ID Copier",
+          "description": "Копирование ID и сбор ссылок."
+        },
+        "zh_CN": {
+          "name": "Panda Link ID Copier",
+          "description": "复制 ID 并收集链接。"
+        }
+      }
+    },
+    {
+      "slug": "panda-screenshoter",
+      "chromeWebStoreId": "mgpbniecpbgpbhgohdjmjfkfphfojhpj",
+      "icon": "https://maxlozovsky.github.io/panda-extensions/assets/panda-screenshoter.png",
+      "storeUrl": "https://chromewebstore.google.com/detail/panda-screenshoter-full-p/mgpbniecpbgpbhgohdjmjfkfphfojhpj",
+      "enabled": true,
+      "priority": 30,
+      "links": [],
+      "i18n": {
+        "en": {
+          "name": "Panda Screenshoter – Full Page Screenshot",
+          "description": "Capture a full-page screenshot in one click with automatic scrolling and save it as PNG, JPEG, or WebP."
+        },
+        "ru": {
+          "name": "Panda Screenshoter – Скриншот всей страницы",
+          "description": "Скриншот всей страницы в один клик – с автопрокруткой и сохранением в PNG, JPEG или WebP."
+        },
+        "zh_CN": {
+          "name": "Panda Screenshoter – 整页截图",
+          "description": "一键截取整个页面，支持自动滚动并保存为 PNG、JPEG 或 WebP。"
+        }
+      }
+    },
+    {
+      "slug": "kpdb",
+      "chromeWebStoreId": "mcjcbomlnkkkpieicohajbfepndbcbel",
+      "icon": "https://maxlozovsky.github.io/panda-extensions/assets/kpdb.png",
+      "storeUrl": "https://chromewebstore.google.com/detail/kpdb-%E2%80%94-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2-%D0%BA/mcjcbomlnkkkpieicohajbfepndbcbel",
+      "enabled": true,
+      "priority": 40,
+      "links": [
+        {
+          "label": "KPDB",
+          "url": "https://kpdb.stream/",
+          "icon": "https://maxlozovsky.github.io/panda-extensions/assets/links/website.svg"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "name": "KPDB — Movie Ratings",
+          "description": "Movie and TV ratings from Kinopoisk, IMDb, and Rotten Tomatoes on Netflix, Okko, Ivi, and 40+ other sites."
+        },
+        "ru": {
+          "name": "KPDB — рейтинги фильмов",
+          "description": "Рейтинги фильмов и сериалов от Кинопоиска, IMDb, Rotten Tomatoes на Netflix, Okko, Иви и ещё 40+ сайтах."
+        },
+        "zh_CN": {
+          "name": "KPDB — 电影评分",
+          "description": "在 Netflix、Okko、Ivi 以及其他 40 多个网站上查看来自 Kinopoisk、IMDb 和烂番茄的电影与电视剧评分。"
+        }
+      }
+    }
+  ]
+}
