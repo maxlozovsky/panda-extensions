@@ -73,9 +73,9 @@
     },
     {
       "slug": "panda-link-id-copier",
-      "chromeWebStoreId": null,
+      "chromeWebStoreId": "boganiakhellofligcecbkiggaacablg",
       "icon": "https://maxlozovsky.github.io/panda-extensions/assets/panda-link-id-copier.png",
-      "storeUrl": null,
+      "storeUrl": "https://chromewebstore.google.com/detail/boganiakhellofligcecbkiggaacablg",
       "enabled": false,
       "priority": 20,
       "links": [],
